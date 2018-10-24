@@ -5,6 +5,8 @@ public class Controller2 {
 	public static void main(String[] args) {
 		System.out.println("LEFT---");
 		System.out.println("RIGTH---");
+		System.out.println("adu分支---");
+		System.out.println("RIGTH---");
 		
 	}
 }
