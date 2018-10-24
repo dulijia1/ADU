@@ -8,6 +8,7 @@ public class Controller2 {
 		System.out.println("RIGTH1---");
 		System.out.println("RIGTH1---");
 		System.out.println("RIGTH1---");
+		System.out.println("RIGTH1---");
 		
 	}
 }
